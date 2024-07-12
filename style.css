@@ -1,0 +1,71 @@
+body{  
+
+}
+div.eng{ 
+
+    background-color: black;
+    color: darkred;
+    text-align: center;
+
+}
+.form{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+   
+}
+.type{
+   
+    border: 2px;
+    border-color: brown;
+    
+}
+.password{
+    
+    border: 2px;
+    border-color: brown;
+
+}
+.pic{
+    padding: 30px;
+    margin: 20px;
+    background-color:darkgray;
+    text-align: center;
+    border: 5px solid;
+    border-radius: 3px;
+}
+image{
+    border-radius:20%; 
+}
+.main{
+    background-color: darkcyan;
+}
+button{
+        
+    background-color:red;
+    color:black;
+       font-size: larger;
+       padding: 12px,320px;
+    text-align: center;  
+}
+.button{
+    
+    color:black;
+       font-size: larger;
+       padding: 12px,320px;
+    text-align: center;   
+}
+
+.can{
+    color:red;
+    text-align:start;   
+}
+input{
+    background-color: lightgrey;
+    color:black;
+    margin: 2px;
+    padding: 7px;
+}
+.forg{
+    text-align: end;
+}
